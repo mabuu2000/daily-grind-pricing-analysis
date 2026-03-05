@@ -25,3 +25,7 @@ Management have noticed a strong drop in profit margins caused by a rising COGS 
   - Minimalist Keychain: 16.33% margin.
   - Logo Hoodie (Black): 16.61% margin.
 - Raise the price of the Gooseneck Electric Kettle, which is currently at a 29.08% margin, to get it above the 30% margin requirement.
+
+**Dashboard Features:**
+- Dynamis slicers to swap the dashboard visuals to analyze revenue, profit, margin and quantity.
+- A RFM analysis to track performance metrics across 6 customer groups.
