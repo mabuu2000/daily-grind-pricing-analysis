@@ -1,4 +1,4 @@
-# daily-grind-pricing-analysis
+# The Daily Grind: Sales and Pricing Analysis 
 **Project Overview:**
 This project consists a data-backed pricing strategy to optimize coffee shop inventory. Raw sales data from 2023 to 2025 was proccessed in MySQL. The data is then imported into Power Bi to build an interactive dashboard tracking Year-over-Year performance.
 
