@@ -6,10 +6,10 @@ This project consists a data-backed pricing strategy to optimize coffee shop inv
 Management have noticed a strong drop in profit margins caused by a rising COGS and tariffs.
 
 **Tasks:**
-- Review order data from 2023 to 2025.
-- Identify all products with a Gross Margin % below 30%.
-- Build an interactive Power Bi dashboard showing Year-over-Year metrics.
-- Provide clear, data-backed recommendations on which items require a price increase or discontinuation.
+- Review all order data from 2023 to 2025.
+- Identify all products with a Gross Margin % (GMP) below 30%.
+- Build an interactive Power Bi dashboard showing Year-over-Year GMP, Revenue, Profit, Quantity by Category, Region and Customer Segment.
+- Give clear, data-backed recommendations on which items need a price increase or discontinuation.
 
 **Data Processing and Transformation**
 - Fixed mismatched dates, calculated missing revenue data and removed invalid customer records.
