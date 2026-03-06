@@ -1,4 +1,7 @@
-# The Daily Grind: Sales and Pricing Analysis 
+# The Daily Grind: Sales and Pricing Analysis
+<img width="67%" alt="image" src="https://github.com/user-attachments/assets/5d8d41b6-ab12-4354-ae92-2b2129547efe" />
+<img width="67%" alt="image" src="https://github.com/user-attachments/assets/e4075879-9fcf-46aa-a354-484fbce660a5" />
+
 **Project Overview:**
 This project consists a data-backed pricing strategy to optimize coffee shop inventory. Raw sales data from 2023 to 2025 was proccessed in MySQL. The data is then imported into Power Bi to build an interactive dashboard tracking Year-over-Year performance.
 
@@ -25,6 +28,8 @@ Management have noticed a strong drop in profit margins caused by a rising COGS 
   - Minimalist Keychain: 16.33% margin.
   - Logo Hoodie (Black): 16.61% margin.
 - Raise the price of the Gooseneck Electric Kettle, which is currently at a 29.08% margin, to get it above the 30% margin requirement.
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/00eb7888-2a73-43ba-83d6-1287d93bc3ad" />
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/56ba7085-b035-41c6-8357-54391240255a" />
 
 **Dashboard Features:**
 - Dynamis slicers to swap the dashboard visuals to analyze revenue, profit, margin and quantity.
